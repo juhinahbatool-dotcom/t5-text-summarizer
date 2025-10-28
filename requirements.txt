@@ -6,3 +6,4 @@ evaluate
 sentencepiece
 rouge-score
 accelerate
+gdown
