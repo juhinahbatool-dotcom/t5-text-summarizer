@@ -1,0 +1,8 @@
+transformers==4.45.0
+torch
+streamlit
+datasets
+evaluate
+sentencepiece
+rouge-score
+accelerate
