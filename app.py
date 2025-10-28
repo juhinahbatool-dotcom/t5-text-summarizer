@@ -4,7 +4,7 @@ import os, zipfile, gdown
 
 # ------------- CONFIG -------------
 MODEL_DIR = "./model"
-DRIVE_FILE_ID = "1levZURbnocK_uN64jB3yXTaOAYktoKfk"   
+DRIVE_FILE_ID = "uN64jB3yXTaOAYktoKfk"   
 ZIP_PATH = "https://drive.google.com/file/d/1levZURbnocK_uN64jB3yXTaOAYktoKfk/view?usp=sharing"
 # ----------------------------------
 
